@@ -18,6 +18,16 @@ generación de 6 tipos de PDF editables.
 
 ---
 
+
+
+<img width="1917" height="944" alt="Captura de pantalla 2026-07-03 142920" src="https://github.com/user-attachments/assets/86d4ed75-bfa7-4806-af92-147f6bbee9ec" />
+<img width="1909" height="983" alt="Captura de pantalla 2026-06-27 203651" src="https://github.com/user-attachments/assets/3e56b9b1-4f97-4170-b05f-5ce5c1fea06a" />
+
+
+
+
+
+
 ## Instalación rápida
 
 ```bash
